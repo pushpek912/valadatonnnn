@@ -13,6 +13,23 @@
     justify-content: center;
 }
 
+.img-container-circle {
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    border: solid black 1px;
+    overflow: hidden;
+    margin-left: 45%;
+    margin-bottom: 15px;
+    
+}
+
+.internal-avatar {
+    overflow: hidden;
+    width: 75px;
+    height: 75px;
+}
+
 .useful-links{
     position: absolute;
     top: 5%;
